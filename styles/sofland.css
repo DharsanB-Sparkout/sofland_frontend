@@ -381,7 +381,7 @@ ul li{
 /* third page */
 
 .third_page{ 
-    background-image: url("colorkit.png");
+    background-image: url("../sofland-assets/colorkit\ -1.png");
     margin-top: 30rem;
 }
 
@@ -1232,6 +1232,3 @@ div [class="footer-page-links"] ul{
    text-decoration: underline;
    
 }
-*{
-    font-family: "Roboto", sans-serif;
-} 
